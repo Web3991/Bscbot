@@ -28,3 +28,16 @@ Thumbs.db
 *.apk
 frida-*
 libfrida-*
+.env
+.bash_history
+.ssh/
+.cache/
+.pip/
+.npmrc
+.pydistutils.cfg
+.wget-hsts
+.sudo_as_admin_successful
+.bashrc
+.bash_logout
+.profile
+.bsc-bot.lock
