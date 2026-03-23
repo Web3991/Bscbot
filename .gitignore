@@ -1,0 +1,30 @@
+# 敏感配置 — 禁止提交
+bsc_sys_config.json
+bsc_risk_config.json
+bsc_wallet.txt
+
+# 数据库
+*.db
+
+# 日志
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 其他无需开源的文件
+*.apk
+frida-*
+libfrida-*

@@ -1,0 +1,10 @@
+{
+    "GROK_API_KEY": "",
+    "EXTRA_RPCS": [
+        "https://bnb.rpc.subquery.network/public",
+        "https://rpc-bsc.48.club"
+    ],
+    "DRY_RUN": true,
+    "WS_RPC": "wss://YOUR_PAID_NODE_WSS_ENDPOINT",
+    "HTTP_RPC": "https://YOUR_PAID_NODE_HTTPS_ENDPOINT"
+}
